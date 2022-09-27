@@ -1,1 +1,1 @@
-# rest-spring-boot-erudio
+# rest-spring-boot-study
